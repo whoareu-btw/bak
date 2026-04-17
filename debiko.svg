@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920mm"
+   height="1080mm"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="debiko.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.11851128"
+     inkscape:cx="3624.1274"
+     inkscape:cy="2037.7806"
+     inkscape:window-width="1358"
+     inkscape:window-height="734"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1;fill:#000000">
+    <rect
+       style="font-variation-settings:'opsz' 32, 'wght' 100;opacity:0.99;fill:#d40000;stroke:#d40000;stroke-width:0.264583"
+       id="rect5"
+       width="1913.3024"
+       height="1085.0233"
+       x="4.465116"
+       y="1.1436204e-06" />
+    <g
+       id="g6"
+       transform="translate(-60.201985)">
+      <path
+         style="opacity:0.99;fill:#000000;stroke-width:0.264583"
+         d="m 804.91776,358.36658 435.95714,-6.14024 v 0 l -236.3993,162.7164 3.0701,224.11881 -67.54261,-27.6311 v 0"
+         id="path2" />
+    </g>
+    <path
+       style="opacity:0.99;fill:#000000;stroke-width:0.194514"
+       d="M 1269.1547,639.14256 988.64752,524.07307 1089.0564,504.89479"
+       id="path3" />
+    <g
+       id="g5"
+       style="fill:#000000"
+       transform="translate(-60.201985)">
+      <path
+         style="opacity:0.99;fill:#000000;stroke-width:0.264583"
+         d="M 820.80341,543.94966 711.04733,680.28359 873.80595,648.15097"
+         id="path4" />
+    </g>
+  </g>
+</svg>
