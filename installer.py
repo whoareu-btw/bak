@@ -14,19 +14,6 @@ while True:
         print("I'm out")
         break
 
-while True:
-    choice = input("Are you sure").strip().lower()
-
-    if choice in ["y", "yes"]:
-        print("alright soldier!")
-        break
-    else choice in ["n", "no"]:
-        print("It's ok, soldier. Maybe next time")
-        break
-
-
-print("One more time, this script will use sudo access")
-
 if os.getuid() !=0:
     print("Get ready!")
     os.execvp("sudo", ["sudo", sys.executable] + sys.argv)
