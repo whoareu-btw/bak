@@ -10,9 +10,11 @@ while True:
     if choice in ["y", "yes"]:
         print("Let's do this!")
         break
-    else choice in ["n", "no"]:
+    elif choice in ["n", "no"]:
         print("I'm out")
         break
+    else:
+        print("Nothing")
 
 if os.getuid() !=0:
     print("Get ready!")
