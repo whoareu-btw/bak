@@ -27,7 +27,7 @@ subprocess.run(["apt", "install", *ITEMS])
 
 print("Will curling nix from source")
 
-subprocess.run(["bash -c\ "sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon""])
+subprocess.run(["bash -c \"sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon""])
 shell = True
 
 print("It's done, soldier!")
